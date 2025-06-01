@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Franky-codestar
+- 👋 Hi, I’m Ifeanyi
 - 👀 I’m interested in programming, sciences and playing musical instrument.
 - 🌱 I’m currently learning Python, JS, CSS and guitar.
-- 💞️ I’m looking to collaborate with like minds.
+- 💞️ I’m looking forward to collaborating with like minds.
 - 📫 How to reach me, on jetagenetworks@gmail.com
 
 <!---
